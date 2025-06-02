@@ -13,7 +13,7 @@ This is the backend API for the Mail Classifier app, built using ASP.NET Core.
 
 ### Prerequisites
 
-- [.NET 9 SDK](https://dotnet.microsoft.com/download) (or compatible)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download)
 
 ### Installation
 
